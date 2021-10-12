@@ -21,5 +21,3 @@ Libellux: Up & Running provides documentation on how-to install open-source soft
 * [JetBrains](https://www.jetbrains.com/)
 
 ## License
-
-<a href="https://fundof.me/jorgen" target="_blank">klicka här</a>
